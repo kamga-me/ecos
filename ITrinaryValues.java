@@ -5,6 +5,7 @@ package core;
 *
 * @author Marc E. KAMGA
 * @version 1.0
+* @copyright Marc E. KAMGA
 */
 public interface ITrinaryValues {
 

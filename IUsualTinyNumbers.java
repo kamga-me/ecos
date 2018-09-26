@@ -7,6 +7,7 @@ import core.math.ISpecialMathNumbers;
 * 
 * @author Marc E. KAMGA
 * @version 1.0
+* @copyright Marc E. KAMGA
 */
 public interface IUsualTinyNumbers extends ISpecialMathNumbers {
 	
