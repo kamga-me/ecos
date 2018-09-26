@@ -5,7 +5,7 @@ package core;
 *
 * @author Marc E. KAMGA
 * @version 1.0
-* copyright Marc E. KAMGA
+* @copyright Marc E. KAMGA
 */
 public abstract class Value extends Thing implements IValueTypes, core.collation.ICompareForOrderResults, java.lang.Cloneable {
 	
